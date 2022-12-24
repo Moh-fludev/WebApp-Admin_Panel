@@ -1,0 +1,32 @@
+.app-btn-primary{
+    margin-bottom: 10px;
+}
+ .error {
+    font-weight: bold;
+    color: red;
+}
+.form-row{
+    display: flex;
+    margin-bottom: 25px;
+   
+}
+.form-group{
+    margin-right: 10%;
+   
+}
+.imp{
+  
+    background-color: darkslategray;
+    margin-left: 15px;
+}
+.imp:hover{
+    background-color: rgb(77, 77, 154);
+}
+
+.saufg{
+    float: right;
+    background-color: chocolate;
+}
+.montant td {
+    font-weight: bold;
+}
